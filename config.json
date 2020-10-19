@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server" : "True",
+        "local_uri"    : "mysql://root:@localhost/flask",
+        "prod_uri"     : "mysql://root:@localhost/flask",
+        "blog_heading" : "Flask Blog by Divyang",
+        "sub_heading"  : "Artificial Intelligence and Machine Learning Blog",
+        "fb_uri"       : "#",
+        "tw_uri"       : "#",
+        "gh_uri"       : "#",
+        "gmail_user"   : "your-google-username",
+        "gmail_pass"   : "your-gmail-password",
+        "posts_per_page" : 3,
+        "username"     : "hello@divtechnosys.com",
+        "pass"         : "123456"  
+
+
+    }
+}
